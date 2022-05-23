@@ -6,6 +6,7 @@ public class WhileDemoCode {
 		while (i<=15) {
 			System.out.println(i);
 			i+2;
+			// push 
 		}
 		
 		// TODO Auto-generated method stub
